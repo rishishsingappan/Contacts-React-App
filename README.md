@@ -6,7 +6,7 @@ This Contacts-React-App is created by installing using npx command in the Termin
 
 ## Instructions to run the code
 
-=> UnZip Contacts-React-App
+=> Clone Contacts-React-App Repositor
 => The Main Code will be found in App.js
 
 ## To Run the code
